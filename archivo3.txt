@@ -1,1 +1,8 @@
 nuevo archivo para pruebas
+<<<<<<< HEAD
+=======
+modifico el archivo
+varnpiro esisten
+otra modificacion
+emos sido engañados
+>>>>>>> rama1
